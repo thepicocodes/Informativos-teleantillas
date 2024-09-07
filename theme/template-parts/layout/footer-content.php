@@ -104,7 +104,7 @@
 		</div>
 		<!--  -->
 		<div class="border-t border-b mt-5">
-			<ul class="w-fit mx-auto py-8 grid grid-cols-3 md:grid-cols-6 lg:grid-cols-8 items-center justify-items-center gap-x-10 gap-y-5">
+			<ul class="w-fit mx-auto py-8 grid grid-cols-2 md:grid-cols-6 lg:grid-cols-8 items-center justify-items-center gap-x-10 gap-y-5">
 
 				<li class="">
 					<img src="<?php echo get_template_directory_uri(); ?>/images/info-logo.png" alt="Informativos ta" class="">
@@ -136,7 +136,7 @@
 		<div class="py-9 flex flex-col lg:flex-row items-center justify-between gap-y-5 text-white">
 			<p>© Copyright - Grupo de Comunicación Corripio • Políticas de Privacidad • Términos y condiciones</p>
 			<div>
-				<ul class="mt-10 md:mt-0 flex items-center gap-x-12 lg:gap-x-2.5">
+				<ul class="mt-10 md:mt-0 flex flex-wrap items-center gap-y-12 gap-x-12 lg:gap-x-2.5 lg:gap-y-2.5">
 					<li>
 						<a href="">
 							<svg xmlns="http://www.w3.org/2000/svg" class="h-8 fill-white" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
