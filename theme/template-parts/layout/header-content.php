@@ -24,12 +24,12 @@
 				</a>
 				<li><a href="<?php echo esc_url(home_url('/Nacionales')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Nacionales</a></li>
 				<li><a href="<?php echo esc_url(home_url('/Internacionales')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Internacionales</a></li>
-				<li><a href="<?php echo esc_url(home_url('/Economía')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Economía</a></li>
-				<li><a href="<?php echo esc_url(home_url('/Política')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Política</a></li>
+				<li><a href="<?php echo esc_url(home_url('/Economia')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Economía</a></li>
+				<li><a href="<?php echo esc_url(home_url('/Politica')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Política</a></li>
 				<li><a href="<?php echo esc_url(home_url('/Salud')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Salud</a></li>
 				<li><a href="<?php echo esc_url(home_url('/Deportes')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Deportes</a></li>
-				<li><a href="<?php echo esc_url(home_url('/Tecnología')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Tecnología</a></li>
-				<li><a href="<?php echo esc_url(home_url('/Espectáculos')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Espectáculos</a></li>
+				<li><a href="<?php echo esc_url(home_url('/Tecnologia')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Tecnología</a></li>
+				<li><a href="<?php echo esc_url(home_url('/Espectaculos')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Espectáculos</a></li>
 				<li><a href="<?php echo esc_url(home_url('/Sociales')); ?>" class="block w-full md:w-fit px-1 py-2 text-s-b hover:text-orange-InfTeleantillasDark active:text-orange-InfTeleantillasDark">Sociales</a></li>
 				<li class="w-max"><a href="<?php echo esc_url(home_url('/')); ?>" class="rounded-lg inline px-2 py-1 text-s-b text-white font-lato font-bold bg-[#FF0000]">En vivo</a></li>
 			</ul>

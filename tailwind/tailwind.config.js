@@ -50,6 +50,7 @@ module.exports = {
 
 				},
 				gray: {
+					1000: '#D0D2D4',
 					100: '#111111',
 				},
 				overlay: {

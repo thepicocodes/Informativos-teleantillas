@@ -10,7 +10,7 @@
 
 ?>
 
-<footer class="mt-24 bg-[#2D2D2D]">
+<footer class="mt-24 bg-[#2D2D2D] font-lato">
 	<div class="px-10 pt-10">
 		<div class="w-full flex flex-col md:flex-row items-center gap-y-10 text-white">
 			<div class="pr-48 self-start">
