@@ -128,7 +128,7 @@ get_header();
                     </svg>
                   </span>
                 </div>
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
@@ -149,7 +149,7 @@ get_header();
                     </svg>
                   </span>
                 </div>
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
@@ -183,7 +183,7 @@ get_header();
                   </svg>
                 </span>
               </div>
-              <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+              <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
               <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 <div class="mt-2 text-xs text-lightBlue-100">
@@ -244,7 +244,7 @@ get_header();
                   </svg>
                 </span>
               </div>
-              <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+              <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
               <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 <div class="mt-2 text-xs text-lightBlue-100">
@@ -327,7 +327,7 @@ get_header();
                   </svg>
                 </span>
               </div>
-              <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+              <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
               <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 <div class="mt-2 text-xs text-lightBlue-100">
@@ -433,7 +433,7 @@ get_header();
                     </svg>
                   </span>
                 </div>
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
@@ -453,7 +453,7 @@ get_header();
                       <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z" />
                     </svg>
                   </span>
-                </div <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                </div <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
@@ -545,7 +545,7 @@ get_header();
                     </svg>
                   </span>
                 </div>
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
@@ -571,7 +571,7 @@ get_header();
                     </svg>
                   </span>
                 </div>
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
@@ -591,7 +591,7 @@ get_header();
                       <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z" />
                     </svg>
                   </span>
-                </div <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                </div <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">

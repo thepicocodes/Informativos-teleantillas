@@ -15,7 +15,7 @@
 		<div class="w-full flex flex-col md:flex-row items-center gap-y-10 text-white">
 			<div class="pr-48 self-start">
 				<a href="">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/informativos-ta-logo-ft.png" alt="Slider image" class="rounded-lg block h-26 object-cover">
+					<img src="<?php echo get_template_directory_uri(); ?>/images/informativos-ta-logo-ft.png" alt="" class="rounded-lg block h-26 object-cover">
 				</a>
 			</div>
 
