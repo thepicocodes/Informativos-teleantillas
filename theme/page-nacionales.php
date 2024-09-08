@@ -35,9 +35,9 @@ get_header();
           </article>
         </a>
 
-        <div class="flex flex-col gap-5">
+        <div class="mt-4 md:mt-0 grid gap-x-2 gap-y-4">
           <a href="/" class="mid-block">
-            <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+            <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
               <div class="content">
                 <div class="w-full py-4 px-2">
                   <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -45,14 +45,13 @@ get_header();
               </div>
               <div class="image w-40%" style="overflow: hidden; position: relative">
                 <div class="h-full">
-                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                 </div>
               </div>
             </article>
           </a>
-
           <a href="/" class="mid-block">
-            <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+            <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
               <div class="content">
                 <div class="w-full py-4 px-2">
                   <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -60,14 +59,13 @@ get_header();
               </div>
               <div class="image w-40%" style="overflow: hidden; position: relative">
                 <div class="h-full">
-                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                 </div>
               </div>
             </article>
           </a>
-
           <a href="/" class="mid-block">
-            <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+            <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
               <div class="content">
                 <div class="w-full py-4 px-2">
                   <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -75,7 +73,7 @@ get_header();
               </div>
               <div class="image w-40%" style="overflow: hidden; position: relative">
                 <div class="h-full">
-                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                 </div>
               </div>
             </article>
@@ -87,9 +85,8 @@ get_header();
       <div class="mt-10">
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-5 gap-y-5">
           <div class="mt-4 md:mt-0 grid gap-x-2 gap-y-4">
-
             <a href="/" class="mid-block">
-              <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -97,14 +94,14 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
             </a>
 
             <a href="/" class="mid-block">
-              <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -112,7 +109,7 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
@@ -197,30 +194,30 @@ get_header();
 
         <div class="mt-4 md:mt-0 grid gap-x-2 gap-y-4">
           <a href="/" class="mid-block">
-            <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+            <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
               <div class="content">
                 <div class="w-full py-4 px-2">
-                  <p class="lg:w-[16ch] mt-2 text-body-b">Son una forma emocionante de poner ...</p>
+                  <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
                 </div>
               </div>
               <div class="image w-40%" style="overflow: hidden; position: relative">
                 <div class="h-full">
-                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                 </div>
               </div>
             </article>
           </a>
 
           <a href="/" class="mid-block">
-            <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+            <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
               <div class="content">
                 <div class="w-full py-4 px-2">
-                  <p class="lg:w-[16ch] mt-2 text-body-b">Son una forma emocionante de poner ...</p>
+                  <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
                 </div>
               </div>
               <div class="image w-40%" style="overflow: hidden; position: relative">
                 <div class="h-full">
-                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                  <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                 </div>
               </div>
             </article>
@@ -374,7 +371,7 @@ get_header();
           <a href="#" class="relative block w-full h-[300px] bg-white">
             <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
               <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="absolute top-0 left-0 w-full h-full ">
-              <div class="rounded-lg h-full relative z-[1] p-5 lg:p-10 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
+              <div class="rounded-lg h-full relative z-[1] p-5 lg:p-5 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <p class="mt-2 text-m-b lg:text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 <div class="mt-2 text-xs text-lightBlue-100">
                   Victor Santana • 08/04/2024 14:51
@@ -445,28 +442,29 @@ get_header();
           </div>
 
           <div class="relative h-[300px]">
-            <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
-              <a href="#" class="relative block w-full h-full bg-white">
+            <a href="#" class="relative block w-full h-full bg-white">
+              <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <div class="py-2 px-4 absolute top-2.5 right-2.5 z-[2] ">
                   <span class="drop-shadow-md rounded-full w-[34px] h-[34px] flex items-center justify-center bg-[#FF0000]">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-2 fill-white" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                       <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z" />
                     </svg>
                   </span>
-                </div <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                </div>
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
                     Victor Santana • 08/04/2024 14:51
                   </div>
                 </div>
-              </a>
-            </article>
+              </article>
+            </a>
           </div>
 
           <div class="mt-4 md:mt-0 grid gap-x-2 gap-y-4">
             <a href="/" class="mid-block">
-              <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -474,22 +472,22 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
             </a>
 
             <a href="/" class="mid-block">
-              <article class="rounded-md border border-gray-100 w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
                   </div>
                 </div>
-                <div cla style="overflow: hidden; position: relative">
+                <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
@@ -501,7 +499,7 @@ get_header();
 
           <div class="mt-4 md:mt-0 grid gap-x-2 gap-y-4">
             <a href="/" class="mid-block">
-              <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -509,14 +507,14 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
             </a>
 
             <a href="/" class="mid-block">
-              <article class="rounded-md borderw-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -524,7 +522,7 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
@@ -536,8 +534,8 @@ get_header();
           </div>
 
           <div class="relative h-[300px]">
-            <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
-              <a href="#" class="relative block w-full h-full bg-white">
+            <a href="#" class="relative block w-full h-full bg-white">
+              <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <div class="py-2 px-4 absolute top-2.5 right-2.5 z-[2] ">
                   <span class="drop-shadow-md rounded-full w-[34px] h-[34px] flex items-center justify-center bg-[#FF0000]">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-2 fill-white" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
@@ -552,8 +550,8 @@ get_header();
                     Victor Santana • 08/04/2024 14:51
                   </div>
                 </div>
-              </a>
-            </article>
+              </article>
+            </a>
           </div>
 
 
@@ -562,8 +560,8 @@ get_header();
         <div class="mt-5 grid md:grid-cols-2 lg:grid-cols-3 gap-x-5 gap-y-5">
 
           <div class="relative h-[300px]">
-            <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
-              <a href="#" class="relative block w-full h-full bg-white">
+            <a href="#" class="relative block w-full h-full bg-white">
+              <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <div class="py-2 px-4 absolute top-2.5 right-2.5 z-[2] ">
                   <span class="drop-shadow-md rounded-full w-[34px] h-[34px] flex items-center justify-center bg-[#FF0000]">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-2 fill-white" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
@@ -578,33 +576,34 @@ get_header();
                     Victor Santana • 08/04/2024 14:51
                   </div>
                 </div>
-              </a>
-            </article>
+              </article>
+            </a>
           </div>
 
           <div class="relative h-[300px]">
-            <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
-              <a href="#" class="relative block w-full h-full bg-white">
+            <a href="#" class="relative block w-full h-full bg-white">
+              <article class="relative w-full h-[300px] bg-gradient-to-t from-overlay-100 to-overlay-0">
                 <div class="py-2 px-4 absolute top-2.5 right-2.5 z-[2] ">
                   <span class="drop-shadow-md rounded-full w-[34px] h-[34px] flex items-center justify-center bg-[#FF0000]">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-2 fill-white" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                       <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z" />
                     </svg>
                   </span>
-                </div <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
+                </div>
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="Freites & Su Gente" class="rounded-lg absolute top-0 left-0 w-full h-full object-cover">
                 <div class="rounded-lg h-full relative z-[1] p-4 flex flex-col justify-end text-white bg-gradient-to-t from-overlay-100 to-overlay-0">
                   <p class="mt-2 text-m-b">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                   <div class="mt-2 text-xs text-lightBlue-100">
                     Victor Santana • 08/04/2024 14:51
                   </div>
                 </div>
-              </a>
-            </article>
+              </article>
+            </a>
           </div>
 
           <div class="mt-4 md:mt-0 grid gap-x-2 gap-y-4">
             <a href="/" class="mid-block">
-              <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -612,14 +611,14 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
             </a>
 
             <a href="/" class="mid-block">
-              <article class="rounded-md border w-full grid grid-cols-[60%_40%]" style="overflow: hidden; height: 140px;">
+              <article class="rounded-md border w-full grid grid-cols-[60%_40%] overflow-hidden h-[140px]">
                 <div class="content">
                   <div class="w-full py-4 px-2">
                     <p class="lg:w-[16ch] mt-2 text-body-b text-blueLight-900">Son una forma emocionante de poner a prueba el cuerpo y la mente</p>
@@ -627,7 +626,7 @@ get_header();
                 </div>
                 <div class="image w-40%" style="overflow: hidden; position: relative">
                   <div class="h-full">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-fit" style="object-fit: cover">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/img-02.png" alt="" class="w-full h-full object-cover">
                   </div>
                 </div>
               </article>
