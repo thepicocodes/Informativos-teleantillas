@@ -12,99 +12,95 @@
 
 <footer class="mt-24 bg-[#2D2D2D] font-lato">
 	<div class="px-10 pt-10">
-		<div class="w-full flex flex-col md:flex-row items-center gap-y-10 text-white">
-			<div class="pr-48 self-start">
-				<a href="">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/informativos-ta-logo-ft.png" alt="" class="rounded-lg block h-26 object-cover">
-				</a>
+		<div class="w-full grid md:grid-cols-2 lg:grid-cols-4 gap-y-10 text-white">
+			<a href="" class="block shrink-0">
+				<img src="<?php echo get_template_directory_uri(); ?>/images/informativos-ta-logo-transparente-02.png" alt="Logo informativos teleantillas" class="rounded-lg block h-[58px] object-contain">
+			</a>
+
+			<div class="">
+				<h4 class="font-extrabold uppercase text-sm text-orange-InfTeleantillas">Secciones</h4>
+				<ul class="mt-2.5 grid gap-y-2.5">
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Nacionales</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Internacionales</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Economía</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Política</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Salud</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Salud</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Deportes</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Tecnología</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Espectáculos</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Sociales</a>
+					</li>
+				</ul>
 			</div>
 
-			<div class="w-full md:w-min flex-1 grid lg:grid-cols-3 gap-y-10 gap-x-5">
-				<div class="">
-					<h4 class="font-extrabold uppercase text-sm text-orange-InfTeleantillas">Secciones</h4>
-					<ul class="mt-2.5 grid gap-y-2.5">
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Nacionales</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Internacionales</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Economía</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Política</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Salud</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Salud</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Deportes</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Tecnología</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Espectáculos</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Sociales</a>
-						</li>
-					</ul>
-				</div>
+			<div class="">
+				<h4 class="font-extrabold uppercase text-sm text-orange-InfTeleantillas">últimos Noticias</h4>
+				<ul class="mt-2.5 grid gap-y-2.5">
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Noticias 1</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Noticias 2</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Noticias 3</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Noticias 4</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Noticias 5</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Noticias 6</a>
+					</li>
+				</ul>
+			</div>
 
-				<div class="">
-					<h4 class="font-extrabold uppercase text-sm text-orange-InfTeleantillas">últimos Noticias</h4>
-					<ul class="mt-2.5 grid gap-y-2.5">
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Noticias 1</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Noticias 2</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Noticias 3</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Noticias 4</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Noticias 5</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Noticias 6</a>
-						</li>
-					</ul>
-				</div>
-
-				<div class="">
-					<h4 class="font-extrabold uppercase text-sm text-orange-InfTeleantillas">Otros enlaces</h4>
-					<ul class="mt-2.5 grid gap-y-2.5">
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Políticas de privacidad</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Políticas de uso</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Términos y condiciones</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Publicidad</a>
-						</li>
-						<li>
-							<a href="" class="block w-full py-2 lg:py-0">Contactos</a>
-						</li>
-					</ul>
-				</div>
+			<div class="">
+				<h4 class="font-extrabold uppercase text-sm text-orange-InfTeleantillas">Otros enlaces</h4>
+				<ul class="mt-2.5 grid gap-y-2.5">
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Políticas de privacidad</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Políticas de uso</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Términos y condiciones</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Publicidad</a>
+					</li>
+					<li>
+						<a href="" class="block w-full py-2 lg:py-0">Contactos</a>
+					</li>
+				</ul>
 			</div>
 		</div>
 		<!--  -->
 		<div class="border-t border-b mt-5">
-			<ul class="w-fit mx-auto py-8 grid grid-cols-2 md:grid-cols-6 lg:grid-cols-8 items-center justify-items-center gap-x-10 gap-y-5">
+			<ul class="w-fit mx-auto py-8 grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 items-center justify-items-center gap-x-10 gap-y-5">
 
 				<li class="">
 					<img src="<?php echo get_template_directory_uri(); ?>/images/info-logo.png" alt="Informativos ta" class="">

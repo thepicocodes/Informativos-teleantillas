@@ -44,7 +44,7 @@ module.exports = {
 				green: {
 				},
 				blue: {
-
+					900: '#040810'
 				},
 				lightBlue: {
 
