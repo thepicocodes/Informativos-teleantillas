@@ -172,12 +172,12 @@ get_header();
       <div class="flex flex-col gap-y-5">
 
         <a href="">
-          <article class="w-full h-[250px]">
-            <div class="w-full h-max flex">
+          <article class="w-full lg:h-[250px]">
+            <div class="w-full h-max grid lg:grid-cols-[300px_1fr]">
               <div class="relative">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-bl-lg w-full min-h-[256px] max-h-[300px] object-cover">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-tr-lg rounded-bl-none rounded-br-none lg:rounded-tr-none lg:rounded-tl-lg lg:rounded-bl-lg w-full min-h-[256px] max-h-[300px] object-cover">
               </div>
-              <div class="rounded-tr-lg rounded-br-lg border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
+              <div class="rounded-bl-lg rounded-br-lg lg:rounded-bl-none lg:rounded-tr-lg lg:rounded-br-lg border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
                 <div>
                   <p class="mt-2 text-body-b lg:text-m-b text-blueLight-900">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 </div>
@@ -190,12 +190,31 @@ get_header();
         </a>
 
         <a href="">
-          <article class="w-full h-[250px]">
-            <div class="w-full h-max flex">
-              <div class="relative">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-bl-lg w-full min-h-[256px] max-h-[300px] object-cover">
+          <article class="w-full lg:h-[250px]">
+            <div class="w-full h-max grid lg:grid-cols-[1fr_300px]">
+              <div class="order-2 lg:order-1 rounded-bl-lg rounded-br-lg lg:rounded-bl-lg lg:rounded-tl-lg lg:rounded-tr-none lg:rounded-br-none border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
+                <div>
+                  <p class="mt-2 text-body-b lg:text-m-b text-blueLight-900">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                </div>
+                <div class="text-xs text-gray-700">
+                  Victor Santana • 08/04/2024 14:51
+                </div>
               </div>
-              <div class="rounded-tr-lg rounded-br-lg border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
+              <div class="relative order-1 lg:order-2">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-tr-lg rounded-bl-none rounded-br-none lg:rounded-tr-lg lg:rounded-br-lg lg:rounded-tl-none lg:rounded-bl-none w-full min-h-[256px] max-h-[300px] object-cover">
+
+              </div>
+            </div>
+          </article>
+        </a>
+
+        <a href="">
+          <article class="w-full lg:h-[250px]">
+            <div class="w-full h-max grid lg:grid-cols-[300px_1fr]">
+              <div class="relative">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-tr-lg rounded-bl-none rounded-br-none lg:rounded-tr-none lg:rounded-tl-lg lg:rounded-bl-lg w-full min-h-[256px] max-h-[300px] object-cover">
+              </div>
+              <div class="rounded-bl-lg rounded-br-lg lg:rounded-bl-none lg:rounded-tr-lg lg:rounded-br-lg border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
                 <div>
                   <p class="mt-2 text-body-b lg:text-m-b text-blueLight-900">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 </div>
@@ -208,12 +227,9 @@ get_header();
         </a>
 
         <a href="">
-          <article class="w-full h-[250px]">
-            <div class="w-full h-max flex">
-              <div class="relative">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-bl-lg w-full min-h-[256px] max-h-[300px] object-cover">
-              </div>
-              <div class="rounded-tr-lg rounded-br-lg border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
+          <article class="w-full lg:h-[250px]">
+            <div class="w-full h-max grid lg:grid-cols-[1fr_300px]">
+              <div class="order-2 lg:order-1 rounded-bl-lg rounded-br-lg lg:rounded-bl-lg lg:rounded-tl-lg lg:rounded-tr-none lg:rounded-br-none border w-full flex flex-col justify-between py-4 px-2 lg:px-4">
                 <div>
                   <p class="mt-2 text-body-b lg:text-m-b text-blueLight-900">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                 </div>
@@ -221,9 +237,13 @@ get_header();
                   Victor Santana • 08/04/2024 14:51
                 </div>
               </div>
+              <div class="relative order-1 lg:order-2">
+                <img src="<?php echo get_template_directory_uri(); ?>/images/img-01.png" alt="" class="rounded-tl-lg rounded-tr-lg rounded-bl-none rounded-br-none lg:rounded-tr-lg lg:rounded-br-lg lg:rounded-tl-none lg:rounded-bl-none w-full min-h-[256px] max-h-[300px] object-cover">
+              </div>
             </div>
           </article>
         </a>
+
 
       </div>
 
