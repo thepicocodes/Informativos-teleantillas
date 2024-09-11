@@ -54,18 +54,18 @@ closeNavBtn.onclick = function (e) {
   navLinks.classList.add("text-white");
 };
 
-// // lotery swiper
-// import Swiper from 'swiper/bundle';
-// import 'swiper/css/bundle';
-// import { current } from 'tailwindcss/colors';
-// // init Swiper:
-// new Swiper("#lotery-swiper", {
-//   pagination: {
-//     el: ".custom-swiper-pagination",
-//     type: "fraction",
-//   },
-//   navigation: {
-//     nextEl: ".custom-swiper-button-next",
-//     prevEl: ".custom-swiper-button-prev",
-//   },
-// });
+// lotery swiper
+import Swiper from 'swiper/bundle';
+import 'swiper/css/bundle';
+import { current } from 'tailwindcss/colors';
+// init Swiper:
+new Swiper("#lotery-swiper", {
+  pagination: {
+    el: ".custom-swiper-pagination",
+    type: "fraction",
+  },
+  navigation: {
+    nextEl: ".custom-swiper-button-next",
+    prevEl: ".custom-swiper-button-prev",
+  },
+});
